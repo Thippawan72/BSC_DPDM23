@@ -40,13 +40,17 @@ min_impurity_decrease
 [Hyperparameters of Decision Trees Explained with Visualizations](https://medium.com/@rohan5076/hyperparameters-of-decision-trees-explained-with-visualizations-194544c32d4)
 ## คำนวณมือ
 ![รูป1](https://miro.medium.com/v2/resize:fit:640/format:webp/1*Bn3d4Z62sof3K4U1_0pSlQ.jpeg)
+![รูป2](https://miro.medium.com/v2/resize:fit:828/format:webp/1*z-4Jf9apbzR8pGb21zp4Yg.jpeg)
+![รูป3](https://miro.medium.com/v2/resize:fit:828/format:webp/1*aijsn0o8D9MewcNe7zSzoQ.png)
+![รูป4](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*7-dqLeHcaAhYD7XirIfTqA.png)
+![รูป5](https://miro.medium.com/v2/resize:fit:828/format:webp/1*4v0BsPTILqi1ExpPKPoLOQ.png)
 # HOMEWORK
 [Homework 1](https://colab.research.google.com/github/Thippawan72/BSC_DPDM23/blob/main/%E0%B8%AA%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87_Frequent_Patterns_HW1.ipynb)
-[Presentation](https://drive.google.com/file/d/1DRoCRGPNx_HteuV6oekoBAz36JpcOqEZ/view?fbclid=IwAR13pYHMsqH1ATlOtOItimKVpmEvLP4z1PEpxgPbEIKK4Pu76m7R9Jhdsdg)
+[Homework 1 Presentation](https://drive.google.com/file/d/1DRoCRGPNx_HteuV6oekoBAz36JpcOqEZ/view?fbclid=IwAR13pYHMsqH1ATlOtOItimKVpmEvLP4z1PEpxgPbEIKK4Pu76m7R9Jhdsdg)
 [Homework 2](https://drive.google.com/file/d/1M4IIztHVlRdbMp85-QZTwu2dgFZgryve/view)
 [Homework 3](https://colab.research.google.com/github/Thippawan72/BSC_DPDM23/blob/main/HW3.ipynb)
-[Presentation](https://www.canva.com/design/DAF6ZMysqvk/xlPnEaKOWL5sxurDboTyAw/edit)
+[Homework 3 Presentation](https://www.canva.com/design/DAF6ZMysqvk/xlPnEaKOWL5sxurDboTyAw/edit)
 [Homework 4](https://github.com/Thippawan72/BSC_DPDM23/blob/main/HW4_643020062-6_%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%A2%E0%B9%8C%20%E0%B8%AA%E0%B8%B8%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C.pdf)
-[Code](https://colab.research.google.com/github/Thippawan72/BSC_DPDM23/blob/main/Classificationmin__Code_Homework4.ipynb)
+[Homework 4 Code](https://colab.research.google.com/github/Thippawan72/BSC_DPDM23/blob/main/Classificationmin__Code_Homework4.ipynb)
 # Midterm
 [midterm_bscdpdm23](https://colab.research.google.com/github/Thippawan72/BSC_DPDM23/blob/main/midterm_bscdpdm23.ipynb)
