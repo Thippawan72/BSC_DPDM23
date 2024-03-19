@@ -39,7 +39,7 @@ min_impurity_decrease
 [Decision Tree Adventures 2 — Explanation of Decision Tree Classifier Parameters](https://medium.datadriveninvestor.com/decision-tree-adventures-2-explanation-of-decision-tree-classifier-parameters-84776f39a28)
 [Hyperparameters of Decision Trees Explained with Visualizations](https://medium.com/@rohan5076/hyperparameters-of-decision-trees-explained-with-visualizations-194544c32d4)
 ## คำนวณมือ
-![รูป1](https://drive.google.com/drive/u/0/folders/1GyTT2o0MtA-JButTi8DL_hXnLDGtQlmE)
+![รูป1]([https://drive.google.com/drive/u/0/folders/1GyTT2o0MtA-JButTi8DL_hXnLDGtQlmE](https://drive.google.com/drive/u/0/folders/1GyTT2o0MtA-JButTi8DL_hXnLDGtQlmE))
 # HOMEWORK
 [Homework 1](https://colab.research.google.com/github/Thippawan72/BSC_DPDM23/blob/main/%E0%B8%AA%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87_Frequent_Patterns_HW1.ipynb)
 [Presentation](https://drive.google.com/file/d/1DRoCRGPNx_HteuV6oekoBAz36JpcOqEZ/view?fbclid=IwAR13pYHMsqH1ATlOtOItimKVpmEvLP4z1PEpxgPbEIKK4Pu76m7R9Jhdsdg)
