@@ -32,11 +32,21 @@ https://scikit-learn.org/stable/modules/preprocessing.html
 https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.ExtraTreesClassifier.html?fbclid=IwAR3KoLVWvp5P586980kxs5YkGXO03SC2xtUURzQ37J1OiIhySv42bpaKNSo
 ## Understanding Parameter
 min_impurity_decrease
-https://medium.com/@ompramod9921/decision-trees-91530198a5a5
-https://www.learndatasci.com/glossary/gini-impurityhttps://ajaytech.co/python-decision-trees/?fbclid=IwAR3GhTC-q4hNzabYI-_4IlPPIgWfwtc0Rtk3eUrt4l7cV-dXtchL7Bzn-Vc/?fbclid=IwAR3KrEFUFXYGZ_D7hOcfczge-Crb8H6-GqaHsjxdLmxMOXw6VUIvgWkIKI0
-https://towardsdatascience.com/decision-trees-and-random-forests-74b89a374db
-https://guopai.github.io/ml-blog09.html?fbclid=IwAR38BkNaQCj_bUN4C4gduoZ2wObqjKpsS6rcG-OkWoMHLZ7L6o2OgLu4wkc#:~:text=gini%20%E0%B8%9A%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B5%E0%B9%89%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%20%22%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C,%E0%B9%80%E0%B8%87%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%82%20Node%20%E0%B8%99%E0%B8%B5%E0%B9%89%20%E0%B8%A1%E0%B8%B5%2039
-https://medium.datadriveninvestor.com/decision-tree-adventures-2-explanation-of-decision-tree-classifier-parameters-84776f39a28
-https://medium.com/@rohan5076/hyperparameters-of-decision-trees-explained-with-visualizations-194544c32d4
+[Decision Trees](https://medium.com/@ompramod9921/decision-trees-91530198a5a5)
+[Gini Impurity](https://www.learndatasci.com/glossary/gini-impurity/?fbclid=IwAR2D8SFiEFzByRt2h52gxospduhZ7EGXe26MDpHPWpi65OZsc1Y5KNkBKEg)
+[Decision Trees and Random Forests:](https://towardsdatascience.com/decision-trees-and-random-forests-74b89a374db)
+[Decision tree เป็น Algorithm ที่เป็นที่นิยม](https://guopai.github.io/ml-blog09.html?fbclid=IwAR38BkNaQCj_bUN4C4gduoZ2wObqjKpsS6rcG-OkWoMHLZ7L6o2OgLu4wkc#:~:text=gini%20%E0%B8%9A%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B5%E0%B9%89%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%20%22%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C,%E0%B9%80%E0%B8%87%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%82%20Node%20%E0%B8%99%E0%B8%B5%E0%B9%89%20%E0%B8%A1%E0%B8%B5%2039)
+[Decision Tree Adventures 2 — Explanation of Decision Tree Classifier Parameters](https://medium.datadriveninvestor.com/decision-tree-adventures-2-explanation-of-decision-tree-classifier-parameters-84776f39a28)
+[Hyperparameters of Decision Trees Explained with Visualizations](https://medium.com/@rohan5076/hyperparameters-of-decision-trees-explained-with-visualizations-194544c32d4)
 ## คำนวณมือ
-
+![รูป1](https://drive.google.com/drive/u/0/folders/1GyTT2o0MtA-JButTi8DL_hXnLDGtQlmE)
+# HOMEWORK
+[Homework 1](https://colab.research.google.com/github/Thippawan72/BSC_DPDM23/blob/main/%E0%B8%AA%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87_Frequent_Patterns_HW1.ipynb)
+[Presentation](https://drive.google.com/file/d/1DRoCRGPNx_HteuV6oekoBAz36JpcOqEZ/view?fbclid=IwAR13pYHMsqH1ATlOtOItimKVpmEvLP4z1PEpxgPbEIKK4Pu76m7R9Jhdsdg)
+[Homework 2](https://drive.google.com/file/d/1M4IIztHVlRdbMp85-QZTwu2dgFZgryve/view)
+[Homework 3](https://colab.research.google.com/github/Thippawan72/BSC_DPDM23/blob/main/HW3.ipynb)
+[Presentation](https://www.canva.com/design/DAF6ZMysqvk/xlPnEaKOWL5sxurDboTyAw/edit)
+[Homework 4](https://github.com/Thippawan72/BSC_DPDM23/blob/main/HW4_643020062-6_%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%A2%E0%B9%8C%20%E0%B8%AA%E0%B8%B8%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C.pdf)
+[Code](https://colab.research.google.com/github/Thippawan72/BSC_DPDM23/blob/main/Classificationmin__Code_Homework4.ipynb)
+# Midterm
+[midterm_bscdpdm23](https://colab.research.google.com/github/Thippawan72/BSC_DPDM23/blob/main/midterm_bscdpdm23.ipynb)
